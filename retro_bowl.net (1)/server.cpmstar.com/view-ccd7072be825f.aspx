@@ -1,0 +1,1 @@
+z1gfmse({"click":"http://server.cpmstar.com/click.aspx?poolid=85117&subpoolid=0&campaignid=422141&creativeid=1111704&imptld=retro-bowl.net","creativemacros":{},"poolmacros":{}})
